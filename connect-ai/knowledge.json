@@ -94,5 +94,19 @@
     "category": "marketing",
     "source": "ezerai",
     "verified": true
+  },
+  {
+    "id": "n17839546506347622",
+    "text": "가원 주백 머고 하세요.",
+    "tags": [
+      "가원",
+      "주백",
+      "머고",
+      "하세요"
+    ],
+    "ts": 1783954650634,
+    "category": "general",
+    "source": "agent",
+    "verified": false
   }
 ]
