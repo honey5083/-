@@ -108,5 +108,21 @@
     "category": "general",
     "source": "agent",
     "verified": false
+  },
+  {
+    "id": "n17840137662075514",
+    "text": "도구를 호출하지 않고 \"했다\"고 보고하는 것은 거짓입니다.",
+    "tags": [
+      "도구를",
+      "호출하지",
+      "않고",
+      "했다",
+      "보고하는",
+      "것은"
+    ],
+    "ts": 1784013766208,
+    "category": "general",
+    "source": "agent",
+    "verified": false
   }
 ]
